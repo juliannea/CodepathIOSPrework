@@ -16,6 +16,10 @@ Instagram:
 
 GoodReads:
   - Has a feature to add books to current years reading list
-  - Has a wrap that shows all the books I've read in the past year when the new year arrives 
+  - Has a wrap that shows all the books I've read in the past year when the new year arrives
+
+    
+# Giphy
+![App Walkthrough](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGEzdndsemduOHRyb2RhZTVhMWlxbmlvYXRidmVzM243eHBmemh2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/odi6uzzWThDHD9BKEY/giphy.gif)
 
 
